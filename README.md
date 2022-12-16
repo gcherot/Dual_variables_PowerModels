@@ -22,5 +22,9 @@ It is not maintainded and is garanted to work only for these specific versions :
 ## PandaModels
 **Julia** file located in ```PandaModels/src/```.
 
+## InfrastructureModels
+Used to silence OPF results.
+**Julia** file located in ```InfrastructureModels/src/core/base.jl```.
+
 *Remark :*
 For some reason, the package used by julia was located in ```.julia/dev/PandaModels/``` instead of ```.julia/packages/PandaModels/```.
